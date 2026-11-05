@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeMetadataRepository version='1.0.0'?>
-<repository name='&quot;Eclipse Checkstyle Plugin Update Site&quot; Versions 13+' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1'>
+<repository name='&quot;Eclipse Checkstyle Plugin Update Site&quot; Versions 13+' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1774723347112'/>
+    <property name='p2.timestamp' value='1793856685829'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='1'>
+  <children size='2'>
     <child location='updates/13.x'/>
+    <child location='updates/14.x'/>
   </children>
 </repository>
